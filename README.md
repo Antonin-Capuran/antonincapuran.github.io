@@ -17,7 +17,7 @@
 <div class="doc"><a href="QKD_Research_Report_Capuran.pdf">Research report (PDF)</a></div>
 
 <h2>Documents</h2>
-<div class="doc"><a href="CV_Capuran.pdf">Curriculum Vitae (PDF)</a></div>
+<div class="doc"><a href="CV_CAPURAN.pdf">Curriculum Vitae (PDF)</a></div>
 
 <h2>Contact</h2>
 <p>antonin.capuran@student.isae-supaero.fr</p>
