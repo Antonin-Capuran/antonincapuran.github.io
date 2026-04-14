@@ -4,13 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Antonin Capuran</title>
-<style>
-  body { font-family: Georgia, serif; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
-  h1 { font-size: 1.8em; margin-bottom: 0.2em; }
-  h2 { font-size: 1.2em; color: #555; margin-top: 2em; border-bottom: 1px solid #ddd; padding-bottom: 4px; }
-  a { color: #1a5276; }
-  .sub { color: #666; font-size: 0.95em; }
-  .doc { margin: 8px 0; }
+
 </style>
 </head>
 <body>
