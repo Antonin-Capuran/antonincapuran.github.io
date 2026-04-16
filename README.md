@@ -17,7 +17,7 @@
 <div class="doc"><a href="QKD_Research_Project_CAPURAN.pdf">Research report (PDF)</a></div>
 
 <h2>Engineering Projects</h2>
-<div class="doc"><a href="Airbrake_FEM_CAPURAN.pdf">Airbrake FEM structural analysis -- ABAQUS (PDF)</a></div>
+<div class="doc"><a href="Airbrake_FEM_CAPURAN.pdf">Airbrake FEM structural analysis - ABAQUS (PDF)</a></div>
 
 <h2>Documents</h2>
 <div class="doc"><a href="CV_CAPURAN.pdf">Curriculum Vitae (PDF)</a></div>
