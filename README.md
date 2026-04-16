@@ -16,6 +16,9 @@
 <p>Six-month research project on LDPC-based information reconciliation for discrete-variable QKD protocols (BB84, SSP99, E91), supervised by Dr. Meryem Benammar at ISAE-SUPAERO. Implemented a QC-LDPC (648,486) decoder with Belief Propagation in MATLAB and validated the waterfall threshold against Shannon bounds.</p>
 <div class="doc"><a href="QKD_Research_Project_CAPURAN.pdf">Research report (PDF)</a></div>
 
+<h2>Engineering Projects</h2>
+<div class="doc"><a href="Airbrake_FEM_CAPURAN.pdf">Airbrake FEM structural analysis -- ABAQUS (PDF)</a></div>
+
 <h2>Documents</h2>
 <div class="doc"><a href="CV_CAPURAN.pdf">Curriculum Vitae (PDF)</a></div>
 
